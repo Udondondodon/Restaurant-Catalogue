@@ -14,7 +14,7 @@ class Header extends HTMLElement {
       <ul>
         <ol><a href="/#" tabindex="3">Home</a></ol>
         <ol><a href="/#/favorite" tabindex="3">Favorite</a></ol>
-        <ol><a href="https://github.com/Udondondodon" tabindex="3">About Us</a></ol>
+        <ol><a href="https://github.com/Udondondodon" tabindex="3">About Me</a></ol>
       </ul>
     </nav>
     <button id="menu" tabindex="2">☰</button>
